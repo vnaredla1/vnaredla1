@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Venu Naredla @vnaredla1
-- 👀 I’m interested in Web Services Development
 - 🌱 I’m currently working on Full stack development
-- 💞️ I’m looking to collaborate on Web services development
-- 📫 Reach me on naredlav1@gmail.com
+- 💞️ I love developing Web Services
+- 📫 Reach me on naredla98@gmail.com
